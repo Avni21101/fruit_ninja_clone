@@ -1,16 +1,23 @@
-# fruit_ninja_clone
+# Fruit Ninja Clone
 
-A new Flutter project.
+[fruit_ninja.png](https://github.com/Avni21101/fruit_ninja_clone/blob/main/assets/fruit_ninja.png)
 
-## Getting Started
+# Features 
+- Smooth UI with lit blade cutting fruits.
+- Scores added with each watermelon cut.
 
-This project is a starting point for a Flutter application.
+## Dependencies
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [equatable](https://pub.dev/packages/equatable)
 
-A few resources to get you started if this is your first Flutter project:
+## Inspiration and Credits
+- [Flutter Clutter](https://www.flutterclutter.dev/flutter/tutorials/flutter-game-tutorial-fruit-ninja-clone/2020/951/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Contribution and Suggetions
+Contributions and Suggetions are always welcome!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- `Report Issues` : Open an issue with detailed information about bugs or feature requests.
+- `Submit Pull Requests` : Fork the repo, create a new branch, make changes, and open a pull request with a clear description.
+- `Code Standards` : Follow the project’s modular design and ensure validation logic aligns with Formz and Bloc.
+
+
