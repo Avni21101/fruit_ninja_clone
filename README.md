@@ -1,5 +1,7 @@
 # Fruit Ninja Clone
 
+![fruit_ninja.png](https://github.com/Avni21101/fruit_ninja_clone/blob/main/assets/fruit_ninja.png)
+
 # Features 
 - Smooth UI with lit blade cutting fruits.
 - Scores added with each watermelon cut.
